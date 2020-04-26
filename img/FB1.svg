@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="23.7066mm" height="4.2332mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2371 423"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="400" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Bebas Neue">
+		<font-face-src>
+			<font-face-name name="Bebas Neue Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="c" horiz-adv-x="383" d="M195.986 -9.99621c-52.6316,0 -92.8436,14.9943 -120.485,44.983 -27.641,29.9886 -41.4994,72.3211 -41.4994,126.997l0 375.994c0,54.6763 13.8584,97.0087 41.4994,126.997 27.641,29.9886 67.8531,45.0587 120.485,45.0587 52.7073,0 92.8436,-15.07 120.485,-45.0587 27.7168,-29.9886 41.4994,-72.3211 41.4994,-126.997l0 -73.9871 -103.976 0 0 81.0299c0,43.3169 -18.3264,64.9754 -54.9792,64.9754 -36.6528,0 -54.9792,-21.6585 -54.9792,-64.9754l0 -390.988c0,-42.7111 18.3264,-64.0666 54.9792,-64.0666 36.6528,0 54.9792,21.3555 54.9792,64.0666l0 107.005 103.976 0 0 -99.0534c0,-54.6763 -13.7827,-97.0087 -41.4994,-126.997 -27.641,-29.9886 -67.7774,-44.983 -120.485,-44.983z"/>
+   <glyph unicode="t" horiz-adv-x="364" d="M127.001 600l-114.995 0 0 100 339.995 0 0 -100 -114.995 0 0 -600 -110.005 0 0 600z"/>
+   <glyph unicode="n" horiz-adv-x="427" d="M40.9693 700.038l138.054 0 107.005 -419.008 1.96895 0 0 419.008 97.9932 0 0 -700.038 -112.988 0 -131.995 511.019 -2.04468 0 0 -511.019 -97.9932 0 0 700.038z"/>
+   <glyph unicode="y" horiz-adv-x="393" d="M141.996 297.999l-133.004 402.001 116.996 0 75 -256.992 2.00094 0 75 256.992 107.015 0 -133.004 -402.001 0 -297.999 -110.005 0 0 297.999z"/>
+   <glyph unicode="F" horiz-adv-x="343" d="M41.0075 700l290.984 0 0 -100 -181.003 0 0 -195.009 142.02 0 0 -100 -142.02 0 0 -304.991 -109.981 0 0 700z"/>
+   <glyph unicode="s" horiz-adv-x="372" d="M183.992 -10.0047c-53.3192,0 -93.6676,15.1601 -120.998,45.5038 -27.3305,30.3437 -40.984,73.823 -40.984,130.508l0 39.9953 103.978 0 0 -47.9991c0,-45.339 19.0207,-68.0085 57.0151,-68.0085 18.6676,0 32.839,5.50847 42.4906,16.5019 9.67514,10.9934 14.5009,28.8371 14.5009,53.5075 0,29.3315 -6.66196,55.1554 -19.9859,77.4953 -13.3475,22.3399 -38.0179,49.1761 -74.0113,80.5085 -45.339,39.9953 -77.0009,76.1535 -95.0094,108.498 -17.9849,32.3211 -26.9774,68.8324 -26.9774,109.487 0,55.3437 13.9831,98.1638 41.9962,128.508 27.9896,30.3437 68.6676,45.5038 121.987,45.5038 52.6836,0 92.5141,-15.1601 119.515,-45.5038 27.0009,-30.3437 40.4896,-73.823 40.4896,-130.508l0 -29.0019 -104.002 0 0 36.0169c0,23.9878 -4.66102,41.5019 -14.0066,52.4953 -9.32203,10.9934 -22.9991,16.5019 -40.984,16.5019 -36.6761,0 -55.0141,-22.3399 -55.0141,-66.9962 0,-25.3531 6.85028,-49.0113 20.5038,-70.9981 13.677,-22.0104 38.5122,-48.6817 74.5056,-80.0141 45.9981,-39.9953 77.6601,-76.3183 95.0094,-108.992 17.3258,-32.6742 25.9887,-70.9981 25.9887,-114.995 0,-57.3446 -14.1714,-101.342 -42.4906,-132.015 -28.3427,-30.6497 -69.5151,-45.9981 -123.517,-45.9981z"/>
+   <glyph unicode="u" horiz-adv-x="402" d="M200.989 -10.0047c-53.3192,0 -93.9972,15.1601 -121.987,45.5038 -28.0132,30.3437 -41.9962,73.823 -41.9962,130.508l0 533.992 110.005 0 0 -541.996c0,-24.0113 4.8258,-41.3371 14.5009,-52.0009 9.6516,-10.6638 23.4934,-16.0075 41.4783,-16.0075 18.0085,0 31.8503,5.34369 41.5019,16.0075 9.67514,10.6638 14.5009,27.9896 14.5009,52.0009l0 541.996 106.003 0 0 -533.992c0,-56.6855 -14.0066,-100.165 -41.9962,-130.508 -27.9896,-30.3437 -68.6676,-45.5038 -122.01,-45.5038z"/>
+   <glyph unicode="B" horiz-adv-x="404" d="M41.0075 700l165.984 0c56.6855,0 97.9991,-13.1591 124.011,-39.5009 25.9887,-26.3418 39.0066,-66.8315 39.0066,-121.492l0 -28.0132c0,-35.9934 -5.83804,-65.3249 -17.5141,-87.9944 -11.6525,-22.6695 -29.4962,-39.0066 -53.484,-48.9878l0 -2.00094c54.661,-18.6676 81.9915,-67.3493 81.9915,-146.022l0 -59.9812c0,-54.0019 -14.1714,-95.1742 -42.5141,-123.517 -28.3192,-28.3192 -69.8211,-42.4906 -124.482,-42.4906l-172.999 0 0 700zm152.99 -285.005c22.0104,0 38.5122,5.67326 49.5056,16.9962 10.9934,11.3465 16.5019,30.3437 16.5019,57.0151l0 38.9831c0,25.3531 -4.49623,43.6676 -13.5122,55.0141 -8.99247,11.323 -23.1638,16.9962 -42.4906,16.9962l-53.0132 0 0 -185.005 43.0085 0zm20.0094 -314.995c19.3267,0 33.6629,5.15537 42.9849,15.4896 9.34557,10.3343 14.0066,28.178 14.0066,53.5075l0 60.9934c0,32.0151 -5.50847,54.1667 -16.5019,66.5019 -10.9934,12.3352 -29.1667,18.5028 -54.4962,18.5028l-49.0113 0 0 -214.995 63.0179 0z"/>
+   <glyph unicode=" " horiz-adv-x="160" d=""/>
+   <glyph unicode="." horiz-adv-x="188" d="M40.9693 106.02l106.02 0 0 -106.02 -106.02 0 0 106.02z"/>
+   <glyph unicode="a" horiz-adv-x="400" d="M125.989 700l149.011 0 114.007 -700 -110.005 0 -20.0094 139.007 0 -2.00094 -125 0 -19.9859 -137.006 -102.001 0 113.983 700zm120.009 -468.008l-48.9878 345.998 -2.00094 0 -47.9991 -345.998 98.9878 0z"/>
+   <glyph unicode="i" horiz-adv-x="191" d="M40.9693 700.038l110.034 0 0 -700.038 -110.034 0 0 700.038z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Bebas Neue";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:black}
+    .fil2 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil4 {fill:url(#id3)}
+    .fil5 {fill:url(#id4)}
+    .fil6 {fill:url(#id5)}
+    .fnt1 {font-weight:normal;font-size:132.05px;font-family:'Bebas Neue'}
+    .fnt0 {font-weight:normal;font-size:424.8px;font-family:'Bebas Neue'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="30.2535%" y1="100.964%" x2="69.747%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E6E6E6"/>
+   <stop offset="0.239216" style="stop-opacity:1; stop-color:#CCCCCC"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#E6E6E6"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#CCCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="30.5128%" y1="101.218%" x2="69.4887%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="34.8515%" y1="105.562%" x2="65.1477%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="1002.83" y1="23.83" x2="1230.51" y2="313">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCC00"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#FFE48A"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#DEAB21"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#FFDC69"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CC9933"/>
+  </linearGradient>
+  <radialGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01024 -1.01008 1.01024 1.01008 -372 1111)" cx="1103.59" cy="356.96" r="126.17" fx="1103.59" fy="356.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E6E6E6"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#CCCCCC"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#E6E6E6"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#CCCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
+  </radialGradient>
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01024 -1.01008 1.01024 1.01008 -373 1203)" xlink:href="#id4" cx="1194.26" cy="356.96" r="126.17" fx="1194.26" fy="356.96">
+  </radialGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1575093928576">
+   <rect class="fil0" width="2371" height="423"/>
+   <g>
+    <text x="469" y="384"  class="fil1 fnt0">F</text>
+    <text x="599" y="384"  class="fil1 fnt0">a</text>
+    <text x="767" y="384"  class="fil1 fnt0">s</text>
+    <text x="923" y="384"  class="fil1 fnt0">t </text>
+    <g>
+     <text x="1257" y="384"  class="fil2 fnt0">B</text>
+     <text x="1427" y="384"  class="fil2 fnt0">u</text>
+     <text x="1595" y="384"  class="fil2 fnt0">y</text>
+     <g transform="matrix(1.06703 0 0 1 542.503 175.196)">
+      <text x="1108" y="212"  class="fil3 fnt1">n</text>
+      <text x="1163" y="212"  class="fil3 fnt1">i</text>
+      <text x="1188" y="212"  class="fil3 fnt1">c</text>
+      <text x="1238" y="212"  class="fil3 fnt1">.</text>
+     </g>
+    </g>
+    <path class="fil0" d="M1024 88c-2,0 -6,3 -7,4 -14,7 -25,5 -35,-6l0 0 -1 -1c-7,-9 -10,-20 -5,-31 3,-8 11,-14 19,-17 9,-3 20,-2 29,1 30,10 48,41 59,69l211 35 1 0c8,2 15,6 20,12 12,15 7,36 0,52 -6,17 -10,34 -17,50 -9,20 -22,36 -40,48l-1 1 0 0c-17,9 -48,11 -67,11l-35 0c-11,0 -22,0 -33,-1 -9,-1 -19,-3 -27,-8 -2,-1 -3,-2 -4,-3l-1 0 0 0c-9,-7 -16,-16 -22,-26l-14 0c-7,0 -14,-3 -18,-9 -1,-2 -2,-4 -2,-6 -2,-7 -1,-14 3,-19 4,-5 9,-7 15,-8l-18 0c-9,0 -18,-5 -20,-14 -2,-6 -1,-12 2,-17 3,-4 6,-6 10,-8l-5 0c-13,0 -24,-8 -23,-21 0,-13 11,-21 23,-21l22 0c0,-2 0,-5 0,-7 -1,-7 -2,-14 -2,-21 -2,-11 -5,-34 -17,-39z"/>
+    <path class="fil4" d="M1021 48c22,7 41,30 55,68l216 36c19,5 26,21 14,51 -12,31 -17,68 -54,93 -14,7 -41,10 -62,10l-35 0c-27,0 -45,0 -59,-10 -10,-8 -16,-18 -22,-28l-20 0c-14,0 -16,-22 0,-22l91 0c12,0 13,-20 0,-20l-111 0c-16,0 -14,-20 0,-20l70 0c13,-1 13,-20 0,-19l-83 0c-18,0 -18,-22 0,-22l34 0c-5,-24 -1,-79 -29,-87 -11,-2 -20,18 -37,1 -15,-20 5,-41 32,-31z"/>
+    <g>
+     <circle class="fil5" cx="1104" cy="357" r="31"/>
+     <circle class="fil6" cx="1194" cy="357" r="31"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
